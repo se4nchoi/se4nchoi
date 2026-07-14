@@ -4,7 +4,7 @@
 
 I bring approximately two years of full-stack development experience and am currently expanding into industrial software, factory automation, edge AI, and hardware-connected applications.
 
-My current direction is centered on building software that can understand, monitor, and improve real-world operations:
+My current direction is centered on building software that connects operational data with monitoring, decision-making, and automation:
 
 ```text
 Physical systems and operational data
@@ -34,4 +34,4 @@ Monitoring, intelligence, and automation
 * Native Korean and English communication
 * Based in South Korea
 
-[Portfolio](https://seanchoi.space) · [LinkedIn](https://www.linkedin.com/in/se4nchoi/) · [Email](mailto:se4n.choi@gmail.com)
+🌐 [Portfolio](https://seanchoi.space) · 💼 [LinkedIn](https://www.linkedin.com/in/se4nchoi/) · ✉️ [Email](mailto:se4n.choi@gmail.com)
