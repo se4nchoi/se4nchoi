@@ -1,32 +1,24 @@
 # Sean Choi
 
-**Software developer focused on full-stack applications and industrial systems integration.**
+**Computer Engineering graduate and software developer connecting web software to PLCs and robots.**
 
-I bring approximately two years of full-stack development experience and a BASc in Computer Engineering from the University of Toronto. My current projects explore robotics integration, operational monitoring, and software for physical systems.
+I have about two years of professional software development experience: frontend applications, an internal attendance system where I also worked on the Koa/MySQL backend, and React interfaces built on operational APIs, including door-lock control on a real vehicle. I'm now extending that into automation and robot-cell integration through the Physical AI & Smart Factory training program (Jun–Dec 2026) and my own projects.
 
-## Selected Projects
+## Selected projects
 
-* **[AMR Integration Simulator](https://github.com/se4nchoi/amr-integration-simulator)** — Python and FastAPI simulator for transport-order lifecycles, with REST commands, WebSocket events, SQLite event history, and a browser dashboard.
-* **[Neuromeka Indy7 Digital Twin](https://github.com/se4nchoi/neuromeka-digitaltwin)** — Robot-workcell visualization with a Python simulation backend, a Three.js interface, and an IndyDCP3 hardware-control path.
-* **[BambooChat](https://github.com/se4nchoi/intel7-chat)** — A classroom LAN chat and learning platform with persistent conversations, file sharing, account administration, quizzes, and real-time chess.
-* **[seanchoi.space](https://github.com/se4nchoi/seanchoi.space)** — Next.js portfolio and technical blog with Notion content sync, PostgreSQL view counts, and a Gemini-powered assistant.
-* **[Telemetry Dashboard](https://github.com/se4nchoi/telemetry-dashboard)** — Interactive biotech and automotive monitoring views with simulated telemetry, packet-gap detection, and shared dashboard components.
-* **[STM32 MCP2515 Driver](https://github.com/se4nchoi/stm32-mcp2515-driver)** — Embedded C++ learning project covering SPI communication, MCP2515 register commands, controller-mode checks, and mock-based tests. CAN frame transmission and reception remain future work.
+* **[Indy7 Palletizing Cell Digital Twin](https://github.com/se4nchoi/neuromeka-digitaltwin)**: a simulation-first control and evidence app for a Neuromeka Indy7 cell. PLC signal contract, a workcell state machine with latched stops and explicit recovery, a Three.js twin, and SQLite run history. Not yet validated on hardware.
+* **[BambooChat](https://github.com/se4nchoi/intel7-chat)**: a LAN chat and learning app I built outside the curriculum and ran for my class of 22, with channels, direct messages, file sharing, quizzes, and chess. FastAPI, WebSocket, SQLite.
+* **[seanchoi.space](https://github.com/se4nchoi/seanchoi.space)**: my portfolio, being rebuilt on the `v2` branch as a bilingual (EN/KO), static-first Next.js site with build-time content validation.
 
-## Technical Focus
+## Training notes
 
-* **Full-stack development:** Python, TypeScript, FastAPI, Next.js, and SQL.
-* **Industrial software:** Integration APIs, robot-workcell visualization, telemetry, and automation workflows.
-* **Embedded foundations:** C/C++, STM32, SPI, and CAN-controller concepts.
-
-## Learning and Tools
-
-[Intel-26 course notes](https://github.com/se4nchoi/intel26) cover Python, PLC automation, IoT, and edge computing. I also maintain [development-environment configuration](https://github.com/se4nchoi/dotfiles) and smaller experiments such as [Markdown Notepad](https://github.com/se4nchoi/markdown-notepad).
+[intel26](https://github.com/se4nchoi/intel26): notes and practice code from the training program, covering Python, Mitsubishi PLC and ladder logic, IoT, and robot programming.
 
 ## Background
 
-* BASc in Computer Engineering, University of Toronto
-* Native Korean and English communication
+* BASc, Computer Engineering, University of Toronto (2026)
+* Software Developer at Hoek Agency (2022–2023) and EMG Global (2021–2022)
+* Korean and English
 * Based in South Korea
 
 [Portfolio](https://seanchoi.space) · [LinkedIn](https://www.linkedin.com/in/se4nchoi/) · [Email](mailto:se4n.choi@gmail.com)
